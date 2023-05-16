@@ -16,7 +16,7 @@
 ## About Me
 - 💼 RedTeam enthusiastic && pentesting.
 - 🌱 Nowadays, I am completing TryHackMe Beginner Pathway.
-- 🎓 My interest in terms of certifications: 
+- 🎓 Certifications that I'm interested in: 
       * Comptia Sec+
       * Comptia Pentest+
       * CCT 
