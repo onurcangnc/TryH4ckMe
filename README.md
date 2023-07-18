@@ -38,7 +38,7 @@
 <!-- GitHub Stats -->
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&count_private=true&hide_border=true" alt="Onurcan's GitHub Stats">
+  [![Onurcan's github stats](https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula)][website]
 </p>
 
 <!-- Footer -->
