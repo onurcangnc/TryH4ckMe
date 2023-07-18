@@ -37,8 +37,7 @@
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-[![Onurcan's github stats](https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula)][website]
-[![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=p4p1&show_icons=true&theme=dracula)][website]
+[![Onurcan's github stats](https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula)]
 
 <!-- Footer -->
 <p align="center">
