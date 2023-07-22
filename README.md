@@ -38,7 +38,6 @@
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Onurcan's github stats](https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula)
-![TryHackMe Badge](https://tryhackme.com/badge/362875)
 
 <!-- Footer -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=onurcangnc" alt="Visitor Count">
@@ -47,3 +46,5 @@
 
 # TryHackMe Profile
 ![tryhackme stats](https://raw.githubusercontent.com/onurcangnc/onurcangnc/main/assets/thm_propic.png)
+![TryHackMe Badge](https://img.shields.io/endpoint?url=https://tryhackme.com/api/badge/362875)
+
