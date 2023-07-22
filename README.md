@@ -46,5 +46,3 @@
 
 # TryHackMe Profile
 ![tryhackme stats](https://raw.githubusercontent.com/onurcangnc/onurcangnc/main/assets/thm_propic.png)
-![TryHackMe Badge](https://img.shields.io/endpoint?url=https://tryhackme.com/api/badge/362875)
-
