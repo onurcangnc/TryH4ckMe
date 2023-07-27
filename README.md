@@ -46,5 +46,5 @@
 
 
 # TryHackMe Profile
-![TryHackMe Image](assets/thm.png)
+![tryhackme stats](https://raw.githubusercontent.com/onurcangnc/onurcangnc/assets/thm_propic.png)
 
