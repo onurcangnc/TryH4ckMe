@@ -38,6 +38,10 @@
 - PS_Works
 - Basic HTML biography pages
 
+## My favorite GIF/GIFs
+![GIF](https://gifyu.com/image/Sc6V4)
+
+
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Onurcan's github stats](https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula)
