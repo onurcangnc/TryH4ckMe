@@ -39,7 +39,7 @@
 - Basic HTML biography pages
 
 ## My favorite GIF/GIFs
-![Animated GIF](https://s11.gifyu.com/images/Sc6V4.gif)
+![Animated GIF](https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif)
 
 
 <!-- GitHub Stats -->
