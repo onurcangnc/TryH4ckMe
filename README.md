@@ -26,15 +26,17 @@
 - C programming
 - Linux Fundamentals
 - Python (beginner)
-- OSINT
-- ...
+- Open Source Intelligence
+- Adobe Photoshop
+- HTML/CSS
 
 <!-- Projects -->
 ## Projects
 - OPENGL GLUT library
 - Linux Command-based Homework
 - AutoWeather prediction
-- ...
+- PS_Works
+- Basic HTML biography pages
 
 <!-- GitHub Stats -->
 ## GitHub Stats
