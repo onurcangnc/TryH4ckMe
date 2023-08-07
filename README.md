@@ -29,7 +29,8 @@
 - Open Source Intelligence
 - Adobe Photoshop
 - HTML/CSS
-
+- ** Web Frameworks**
+  - Bootstrap ![Bootstrap Icon](https://getbootstrap.com/docs/5.3/assets/img/icons/bootstrap.svg)
 <!-- Projects -->
 ## Projects
 - OPENGL GLUT library
