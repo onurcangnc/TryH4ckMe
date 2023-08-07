@@ -29,8 +29,8 @@
 - Open Source Intelligence
 - Adobe Photoshop
 - HTML/CSS
-- ** Web Frameworks**
-  - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Web Frameworks**
+  --![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!-- Projects -->
 ## Projects
 - OPENGL GLUT library
