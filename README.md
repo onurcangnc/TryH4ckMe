@@ -4,8 +4,6 @@
 <p align="center">
   I'm an information technology student from Turkey, Bilkent University. 
   Welcome to my GitHub profile ! !
-  
-  (If you want to add on social platforms, please click each of them.)
 </p>
 
 <!-- Badges -->
