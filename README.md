@@ -7,6 +7,9 @@
 <p align="center">
   Welcome to my GitHub profile ! !
 </p>
+<p align="center">
+  If you want to add on LinkedIn, Spotify or Steam, you can click each of them.
+</p>
 
 <!-- Badges -->
 <p align="center">
