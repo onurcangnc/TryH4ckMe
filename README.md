@@ -2,7 +2,8 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Onurcan ! 👋</h1>
 <p align="center">
-  I'm an information technology student from Turkey, Bilkent University. 
+  I'm an information technology student from Turkey, Bilkent University.
+  
   Welcome to my GitHub profile ! !
 </p>
 
