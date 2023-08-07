@@ -30,7 +30,7 @@
 - Adobe Photoshop
 - HTML/CSS
 - ** Web Frameworks**
-  - Bootstrap - ![Bootstrap Icon](https://i.ibb.co/nmtPqsy/bootstrap-logo-shadow.png)
+  - Bootstrap ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!-- Projects -->
 ## Projects
 - OPENGL GLUT library
