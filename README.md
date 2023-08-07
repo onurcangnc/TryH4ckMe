@@ -42,8 +42,8 @@
 
 
 ## Hobbies
-# You can add me on game platforms through click the icon.
-- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# You can add me on game platforms through clicking the icon.
+- <a href="steamcommunity.com/id/srancuel"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 <!-- Projects -->
 ## Projects
