@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Onurcan ! 👋</h1>
-<h2 align="center">👉 **[Visit Website](http://www.onurcangenc.com.tr)** 👈</h2>
+<h2 align="center"><a href="http://www.onurcangenc.com.tr">👉 **Visit Website** 👈</a></h2>
 <p align="center">
   I'm an information technology student from Turkey, Bilkent University.
 </p>
