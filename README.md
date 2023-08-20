@@ -2,6 +2,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Onurcan ! 👋</h1>
 <h2 align="center"><a href="http://www.onurcangenc.com.tr">👉 Visit My Portfolio 👈</a></h2>
+
 <p align="center">
   I'm an information technology student from Turkey, Bilkent University.
 </p>
@@ -23,7 +24,9 @@
 <!-- About Me -->
 ## About Me
 - 💼 RedTeam enthusiastic && pentesting.
+
 - 🌱 Nowadays, I am completing TryHackMe Beginner Pathway.
+
 - 🎓 Certifications that I'm interested in: 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;➡️ Comptia Security+
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;➡️ Comptia Pentest+
@@ -31,12 +34,19 @@
 <!-- Skills -->
 ## Skills
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 - ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 - ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - Open Source Intelligence
+
 - ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Web Frameworks
@@ -51,10 +61,15 @@
 <!-- Projects -->
 ## Projects
 - OPENGL GLUT library
+
 - Linux Command-based Homework
+
 - AutoWeather prediction
+
 - PS_Works
+
 - Basic HTML biography pages
+
 - Bootstrap basic websites
 
 ## My favorite GIF/GIFs
