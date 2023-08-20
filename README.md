@@ -29,9 +29,9 @@
   <strong>Red Team Enthusiast & Pentester</strong><br>
   🌱 Currently completing the TryHackMe Beginner Pathway<br>
   🎓 Interested in certifications like:<br>
-  - CompTIA Security+<br>
-  - CompTIA Pentest+<br>
-  - CCT
+  CompTIA Security+<br>
+  CompTIA Pentest+<br>
+  CCT
 </p>
 </details>
 
