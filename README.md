@@ -102,6 +102,11 @@
   Nmap does not turn "FILTERED" scan results.<br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkZ2MzajZpdmRvb2c5M2xqOXpjbnBvMThtbHkxaGxrYzUydmo3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tKK29oXuxeWPS3Dgx/giphy.gif" alt="Metasploit GIF">
 </p>
+
+<p align="center">
+  When Metasploit does not open any sessions.<br>
+  <div class="tenor-gif-embed" data-postid="18347002" data-share-method="host" data-aspect-ratio="1.26482" data-width="100%"><a href="https://tenor.com/view/metasploit-meterpreter-kali-linux-kali-gif-18347002">Metasploit Meterpreter GIF</a>from <a href="https://tenor.com/search/metasploit-gifs">Metasploit GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>
 </details>
 
 <details>
