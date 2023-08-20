@@ -4,6 +4,9 @@
 <p align="center">I'm an information technology student from Turkey, studying at Bilkent University.</p>
 <p align="center">Welcome to my GitHub profile!</p>
 
+<p align="center">![Terminal](https://github.com/onurcangnc/onurcangnc/raw/main/assets/terminal.gif)</p>
+
+
 <details>
 <summary>
   Social Media Accounts
@@ -101,11 +104,6 @@
 <p align="center">
   Nmap does not turn "FILTERED" scan results.<br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkZ2MzajZpdmRvb2c5M2xqOXpjbnBvMThtbHkxaGxrYzUydmo3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tKK29oXuxeWPS3Dgx/giphy.gif" alt="NMAP GIF">
-</p>
-
-<p align="center">
-  When Meterpreter Shell successfully opened.<br>
-  [Imgur](https://i.imgur.com/FXk0utP.gif)
 </p>
 
 </details>
