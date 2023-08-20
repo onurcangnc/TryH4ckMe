@@ -105,7 +105,7 @@
 
 <p align="center">
   When Meterpreter Shell successfully opened.<br>
-  [Imgur](https://i.imgur.com/FXk0utP.gifv)
+  [Imgur](https://i.imgur.com/FXk0utP.gif)
 </p>
 
 </details>
