@@ -18,9 +18,13 @@
   <a href="https://open.spotify.com/user/11182743495"><img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify"></a>
   <a href="https://tryhackme.com/p/drogba771"><img src="https://img.shields.io/badge/TryHackMe-Connect-blue"></a>
 </p>
+</details>
 
-<!-- About Me -->
-## About Me
+<details>
+<summary>
+  About Me
+</summary>
+
 <p align="center">
   <strong>Red Team Enthusiast & Pentester</strong><br>
   🌱 Currently completing the TryHackMe Beginner Pathway<br>
@@ -29,11 +33,13 @@
   - CompTIA Pentest+<br>
   - CCT
 </p>
-
 </details>
 
-<!-- Skills -->
-## Skills
+<details>
+<summary>
+  Skills
+</summary>
+
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali">
@@ -44,15 +50,23 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
+</details>
 
-<!-- Web Frameworks -->
-## Web Frameworks
+<details>
+<summary>
+  Web Frameworks
+</summary>
+
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
+</details>
 
-<!-- Projects -->
-## Projects
+<details>
+<summary>
+  Projects
+</summary>
+
 <p align="center">
   - OPENGL GLUT library<br>
   - Linux Command-based Homework<br>
@@ -61,36 +75,61 @@
   - Basic HTML biography pages<br>
   - Bootstrap basic websites
 </p>
+</details>
 
-<!-- Hobbies -->
-## Hobbies
+<details>
+<summary>
+  Hobbies
+</summary>
+
 <p align="center">
   <a href="steamcommunity.com/id/srancuel"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
   <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
 </p>
+</details>
 
-<!-- My favorite GIF/GIFs -->
-## Brute Force be like:
+<details>
+<summary>
+  My favorite GIF/GIFs
+</summary>
+
 <p align="center">
+  Brute Force be like:<br>
   <img src="https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif" alt="Animated GIF">
 </p>
 
-## When I open successful Metasploit Session
 <p align="center">
+  When I open successful Metasploit Session:<br>
   <img src="https://media.tenor.com/z6X-NO4N6TwAAAAd/metasploit-meterpreter.gif" alt="Metasploit GIF">
 </p>
+</details>
 
-<!-- GitHub Stats -->
+<details>
+<summary>
+  GitHub Stats
+</summary>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula" alt="Onurcan's GitHub Stats">
 </p>
+</details>
 
-<!-- Footer -->
+<details>
+<summary>
+  Footer
+</summary>
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=onurcangnc" alt="Visitor Count">
 </p>
+</details>
 
-<!-- TryHackMe Profile -->
+<details>
+<summary>
+  TryHackMe Profile
+</summary>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png" alt="TryHackMe Stats">
 </p>
+</details>
