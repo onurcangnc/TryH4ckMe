@@ -3,12 +3,6 @@
 <h2 align="center"><a href="http://www.onurcangenc.com.tr">👉 Visit My Portfolio 👈</a></h2>
 <p align="center">I'm an information technology student from Turkey, studying at Bilkent University.</p>
 <p align="center">Welcome to my GitHub profile!</p>
-
-<details>
-<summary>
-  Learn more about me.
-</summary>
-
 <p align="center">Feel free to connect with me on LinkedIn or check out my other profiles below.</p>
 
 <!-- Badges -->
@@ -85,11 +79,6 @@
   <img src="https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif" alt="Animated GIF">
 </p>
 
-## When I open successful Metasploit Session
-<p align="center">
-  <img src="https://media.tenor.com/z6X-NO4N6TwAAAAd/metasploit-meterpreter.gif" alt="Metasploit GIF">
-</p>
-
 ---
 
 <!-- GitHub Stats -->
@@ -110,5 +99,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png" alt="TryHackMe Stats">
 </p>
-
-</details>
