@@ -95,12 +95,17 @@
 
 <p align="center">
   Brute Force be like:<br>
-  <img src="https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif" alt="Animated GIF">
+  <img src="https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif" alt="BRUTEFORCE GIF">
 </p>
 
 <p align="center">
   Nmap does not turn "FILTERED" scan results.<br>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkZ2MzajZpdmRvb2c5M2xqOXpjbnBvMThtbHkxaGxrYzUydmo3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tKK29oXuxeWPS3Dgx/giphy.gif" alt="Metasploit GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkZ2MzajZpdmRvb2c5M2xqOXpjbnBvMThtbHkxaGxrYzUydmo3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tKK29oXuxeWPS3Dgx/giphy.gif" alt="NMAP GIF">
+</p>
+
+<p align="center">
+  When Meterpreter Shell successfully opened.<br>
+  ![Meterpreter GIF](/onurcangnc/onurcangnc/tree/main/assets/hell.gif)
 </p>
 
 </details>
