@@ -103,10 +103,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkZ2MzajZpdmRvb2c5M2xqOXpjbnBvMThtbHkxaGxrYzUydmo3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tKK29oXuxeWPS3Dgx/giphy.gif" alt="Metasploit GIF">
 </p>
 
-<p align="center">
-  When Metasploit does not open any sessions.<br>
-  <img src="https://tenor.com/view/metasploit-meterpreter-kali-linux-kali-gif-18347002" alt="Metasploit GIF">
-</p>
 </details>
 
 <details>
