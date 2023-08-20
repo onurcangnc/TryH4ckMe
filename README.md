@@ -4,7 +4,7 @@
 <p align="center">I'm an information technology student from Turkey, studying at Bilkent University.</p>
 <p align="center">Welcome to my GitHub profile!</p>
 
-<p align="center">![Terminal](https://raw.githubusercontent.com/onurcangnc/onurcangnc/main/assets/terminal.gif)</p>
+<img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png"></img>
 
 
 <details>
