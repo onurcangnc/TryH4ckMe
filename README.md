@@ -116,7 +116,7 @@
 
 <details>
 <summary>
-  Footer
+  Visitors Counter
 </summary>
 
 <p align="center">
