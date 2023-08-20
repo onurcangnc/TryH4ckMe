@@ -5,8 +5,6 @@
 <p align="center">Welcome to my GitHub profile!</p>
 <p align="center">Feel free to connect with me on LinkedIn or check out my other profiles below.</p>
 
----
-
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/onurcan-genç-b582311b9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
@@ -14,8 +12,6 @@
   <a href="https://open.spotify.com/user/11182743495"><img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify"></a>
   <a href="https://tryhackme.com/p/drogba771"><img src="https://img.shields.io/badge/TryHackMe-Connect-blue"></a>
 </p>
-
----
 
 <!-- About Me -->
 ## About Me
@@ -25,8 +21,6 @@
   - CompTIA Security+
   - CompTIA Pentest+
   - CCT
-
----
 
 <!-- Skills -->
 ## Skills
@@ -41,14 +35,11 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
----
-
+<!-- Web Frameworks -->
 ## Web Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
-
----
 
 <!-- Projects -->
 ## Projects
@@ -59,8 +50,6 @@
 - Basic HTML biography pages
 - Bootstrap basic websites
 
----
-
 <!-- Hobbies -->
 ## Hobbies
 <p align="center">
@@ -68,15 +57,11 @@
   <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
 </p>
 
----
-
 <!-- My favorite GIF/GIFs -->
 ## Brute Force be like:
 <p align="center">
   <img src="https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif" alt="Animated GIF">
 </p>
-
----
 
 <!-- GitHub Stats -->
 ## GitHub Stats
@@ -84,14 +69,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula" alt="Onurcan's GitHub Stats">
 </p>
 
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=onurcangnc" alt="Visitor Count">
 </p>
-
----
 
 <!-- TryHackMe Profile -->
 <p align="center">
