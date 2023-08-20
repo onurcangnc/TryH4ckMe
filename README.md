@@ -17,6 +17,7 @@
   <a href="https://www.linkedin.com/in/onurcan-genç-b582311b9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:rekal1417@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-red?logo=gmail"></a>
   <a href="https://open.spotify.com/user/11182743495"><img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify"></a>
+  <a href="https://tryhackme.com/p/drogba771"><img src="https://img.shields.io/badge/TryHackMe-Join%20Now-blue"></a>
 </p>
 
 <!-- About Me -->
