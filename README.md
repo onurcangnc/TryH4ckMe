@@ -1,17 +1,11 @@
-
 <!-- Introduction -->
-<h1 align="center">Hi, I'm Onurcan ! 👋</h1>
+<h1 align="center">Hi, I'm Onurcan! 👋</h1>
 <h2 align="center"><a href="http://www.onurcangenc.com.tr">👉 Visit My Portfolio 👈</a></h2>
+<p align="center">I'm an information technology student from Turkey, studying at Bilkent University.</p>
+<p align="center">Welcome to my GitHub profile!</p>
+<p align="center">Feel free to connect with me on LinkedIn or check out my other profiles below.</p>
 
-<p align="center">
-  I'm an information technology student from Turkey, Bilkent University.
-</p>
-<p align="center">
-  Welcome to my GitHub profile ! !
-</p>
-<p align="center">
-  (If you want to add on LinkedIn, Spotify or Steam, you can click each of them.)
-</p>
+---
 
 <!-- Badges -->
 <p align="center">
@@ -21,70 +15,85 @@
   <a href="https://tryhackme.com/p/drogba771"><img src="https://img.shields.io/badge/TryHackMe-Connect-blue"></a>
 </p>
 
+---
+
 <!-- About Me -->
 ## About Me
-- 💼 RedTeam enthusiastic && pentesting.
+- 💼 Red Team Enthusiast & Pentester
+- 🌱 Currently completing the TryHackMe Beginner Pathway
+- 🎓 Interested in certifications like:
+  - CompTIA Security+
+  - CompTIA Pentest+
+  - CCT
 
-- 🌱 Nowadays, I am completing TryHackMe Beginner Pathway.
+---
 
-- 🎓 Certifications that I'm interested in: 
-   <br/>&nbsp;&nbsp;&nbsp;&nbsp;➡️ Comptia Security+
-   <br/>&nbsp;&nbsp;&nbsp;&nbsp;➡️ Comptia Pentest+
-   <br/>&nbsp;&nbsp;&nbsp;&nbsp;➡️ CCT
 <!-- Skills -->
 ## Skills
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali">
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Open%20Source%20Intelligence-gray?style=for-the-badge" alt="Open Source Intelligence">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-- ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-- ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-- Open Source Intelligence
-
-- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
 
 ## Web Frameworks
-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
 
-
-## Hobbies
-# You can add me on game platforms through clicking the icon.
-- <a href="steamcommunity.com/id/srancuel"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
-- ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+---
 
 <!-- Projects -->
 ## Projects
 - OPENGL GLUT library
-
 - Linux Command-based Homework
-
 - AutoWeather prediction
-
 - PS_Works
-
 - Basic HTML biography pages
-
 - Bootstrap basic websites
 
-## My favorite GIF/GIFs
-![Animated GIF](https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif)
+---
 
+<!-- Hobbies -->
+## Hobbies
+<p align="center">
+  <a href="steamcommunity.com/id/srancuel"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
+</p>
+
+---
+
+<!-- My favorite GIF/GIFs -->
+## Brute Force be like:
+<p align="center">
+  <img src="https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif" alt="Animated GIF">
+</p>
+
+---
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Onurcan's github stats](https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onurcangnc&show_icons=true&theme=dracula" alt="Onurcan's GitHub Stats">
+</p>
+
+---
 
 <!-- Footer -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=onurcangnc" alt="Visitor Count">
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=onurcangnc" alt="Visitor Count">
+</p>
 
+---
 
-
-# TryHackMe Profile
-![tryhackme stats](https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png)
-
+<!-- TryHackMe Profile -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png" alt="TryHackMe Stats">
+</p>
