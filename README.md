@@ -105,7 +105,7 @@
 
 <p align="center">
   When Meterpreter Shell successfully opened.<br>
-  ![Meterpreter GIF](/onurcangnc/onurcangnc/tree/main/assets/hell.gif)
+  ![Meterpreter GIF](https://raw.githubusercontent.com/onurcangnc/onurcangnc/main/assets/hell.gif)
 </p>
 
 </details>
