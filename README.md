@@ -105,7 +105,7 @@
 
 <p align="center">
   When Metasploit does not open any sessions.<br>
-  <div class="tenor-gif-embed" data-postid="18347002" data-share-method="host" data-aspect-ratio="1.26482" data-width="100%"><a href="https://tenor.com/view/metasploit-meterpreter-kali-linux-kali-gif-18347002">Metasploit Meterpreter GIF</a>from <a href="https://tenor.com/search/metasploit-gifs">Metasploit GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/view/metasploit-meterpreter-kali-linux-kali-gif-18347002" alt="Metasploit GIF">
 </p>
 </details>
 
