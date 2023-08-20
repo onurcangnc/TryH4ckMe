@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  When I open successful Metasploit Session:<br>
+  Nmap does not turn "FILTERED" scan results.<br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkZ2MzajZpdmRvb2c5M2xqOXpjbnBvMThtbHkxaGxrYzUydmo3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tKK29oXuxeWPS3Dgx/giphy.gif" alt="Metasploit GIF">
 </p>
 </details>
