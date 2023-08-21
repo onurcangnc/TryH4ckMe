@@ -29,7 +29,7 @@
   About Me
 </summary>
 
-<p align="center">
+<p>
   <strong>Red Team Enthusiast & Pentester</strong><br>
   🌱 Currently completing the TryHackMe Beginner Pathway<br>
   🎓 Interested in certifications like:<br>
@@ -61,7 +61,7 @@
   Web Frameworks
 </summary>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 </details>
@@ -71,7 +71,7 @@
   Projects
 </summary>
 
-<p align="center">
+<p>
   - OPENGL GLUT library<br>
   - Linux Command-based Homework<br>
   - AutoWeather prediction<br>
@@ -97,12 +97,12 @@
   My favorite GIF/GIFs
 </summary>
 
-<p align="center">
+<p>
   Brute Force be like:<br>
   <img src="https://media.giphy.com/media/bILoTtzjQoYdRlAc7C/giphy-downsized-large.gif" alt="BRUTEFORCE GIF">
 </p>
 
-<p align="center">
+<p>
   Nmap does not turn "FILTERED" scan results.<br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpkZ2MzajZpdmRvb2c5M2xqOXpjbnBvMThtbHkxaGxrYzUydmo3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tKK29oXuxeWPS3Dgx/giphy.gif" alt="NMAP GIF">
 </p>
@@ -124,7 +124,7 @@
   Visitors Counter
 </summary>
 
-<p align="center">
+<p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=onurcangnc" alt="Visitor Count">
 </p>
 </details>
@@ -134,7 +134,7 @@
   TryHackMe Profile
 </summary>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png" alt="TryHackMe Stats">
 </p>
 </details>
