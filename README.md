@@ -26,7 +26,7 @@
 
 <details>
 <summary>
-  **About Me**
+  <strong>About Me</strong>
 </summary>
 
 <p>
