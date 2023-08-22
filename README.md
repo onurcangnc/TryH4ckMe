@@ -10,7 +10,7 @@
 
 <details>
 <summary>
-  **Social Media Accounts**
+  <strong>Social Media Accounts</strong>
 </summary>
 
 <p>Feel free to connect with me on LinkedIn or check out my other profiles below.</p>
@@ -41,7 +41,7 @@
 
 <details>
 <summary>
-  **Skills**
+  <strong>Skills</strong>
 </summary>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 <details>
 <summary>
-  **Web Frameworks**
+  <strong>Web Frameworks</strong>
 </summary>
 
 <p>
@@ -68,7 +68,7 @@
 
 <details>
 <summary>
-  **Projects**
+  <strong>Projects</strong>
 </summary>
 
 <p>
@@ -83,7 +83,7 @@
 
 <details>
 <summary>
-  **Hobbies**
+  <strong>Hobbies</strong>
 </summary>
 
 <p align="center">
@@ -94,7 +94,7 @@
 
 <details>
 <summary>
-  **My favorite GIF/GIFs**
+  <strong>My favorite GIF/GIFs</strong>
 </summary>
 
 <p>
@@ -111,7 +111,7 @@
 
 <details>
 <summary>
-  **GitHub Stats**
+  <strong>GitHub Stats</strong>
 </summary>
 
 <p align="center">
@@ -121,7 +121,7 @@
 
 <details>
 <summary>
-  **Visitors Counter**
+  <strong>Visitors Counter</strong>
 </summary>
 
 <p>
@@ -131,7 +131,7 @@
 
 <details>
 <summary>
-  **TryHackMe Profile**
+  <strong>TryHackMe Profile</strong>
 </summary>
 
 <p>
