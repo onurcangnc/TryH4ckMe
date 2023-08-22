@@ -31,11 +31,11 @@
 
 <p>
   <strong>Red Team Enthusiast & Pentester</strong><br>
-  🌱 Currently completing the TryHackMe Beginner Pathway<br>
-  🎓 Interested in certifications like:<br>
-  CompTIA Security+<br>
-  CompTIA Pentest+<br>
-  CCT
+  - Currently completing the Jr. Penetration Tester<br>
+  ## Interested in certifications like:<br>
+  - CompTIA Security+<br>
+  - CompTIA Pentest+<br>
+  - CCT
 </p>
 </details>
 
