@@ -32,7 +32,7 @@
 <p>
   <strong>Red Team Enthusiast & Pentester</strong><br>
   - Currently completing the Jr. Penetration Tester<br>
-  ## Interested in certifications like:<br>
+  <strong>Interested in certifications like:</strong><br>
   - CompTIA Security+<br>
   - CompTIA Pentest+<br>
   - CCT
