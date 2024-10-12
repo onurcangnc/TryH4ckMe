@@ -72,8 +72,8 @@
 </summary>
 
 <p>
-  - <a href="https://github.com/onurcangnc/ctf_writeups" target="_blank">CTF WriteUps</a><br><br>
-  - <a href="https://github.com/onurcangnc/Rasputin" target="_blank">Rasputin</a><br><br>
+  - <a href="https://github.com/onurcangnc/ctf_writeups" target="_blank">CTF WriteUps</a><br>
+  - <a href="https://github.com/onurcangnc/Rasputin" target="_blank">Rasputin</a><br>
   - <a href="https://github.com/onurcangnc/email_reader" target="_blank">Bilkent Email Reader</a><br>
   - <a href="https://github.com/onurcangnc/bilkent_traffic" target="_blank">Bilkent Traffic Reporter</a><br>
   - <a href="https://github.com/onurcangnc/whatsapp_chat_analyzer" target="_blank">WhatsApp Chat Analyzer</a><br>
