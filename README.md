@@ -139,6 +139,5 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png" alt="TryHackMe Stats">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=362875" alt="TryHackMe Badge">
 </p>
 </details>
