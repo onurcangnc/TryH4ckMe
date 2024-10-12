@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/CompTIA%20Security+-%23E62E00.svg?style=for-the-badge" alt="CompTIA Security+"><br>
   - Currently completing the Red Teaming on TryHackMe<br>
   - Experienced with CI/CD tools like GitHub Actions and Heroku for automating workflows and deploying applications efficiently.<br>
-  
+
   
   <strong>Interested in certifications like:</strong><br>
   <img src="https://img.shields.io/badge/OSCP-%23FF5733.svg?style=for-the-badge" alt="OSCP">
@@ -92,7 +92,7 @@
   <li><a href="https://github.com/onurcangnc/whatsapp_chat_analyzer" target="_blank">WhatsApp Chat Analyzer</a> - A tool used to analyze WhatsApp chats.</li>
   <li><a href="https://github.com/onurcangnc/tinder_automation" target="_blank">Tinder Automation</a> - A project that provides automation on Tinder.</li>
   <li><a href="https://github.com/onurcangnc/bumble_location_changer" target="_blank">Bumble Location Changer</a> - Allows location change on the Bumble app.</li>
-  <li><a href="https://github.com/onurcangnc/PixelTap_Auto_Combat2" target="_blank">PixelTap Auto Combat v2</a> - An automatic combat system for the PixelTap game.<li>
+  <li><a href="https://github.com/onurcangnc/PixelTap_Auto_Combat2" target="_blank">PixelTap Auto Combat v2</a> - An automatic combat system for the PixelTap game.</li>
   <li><a href="https://github.com/onurcangnc/shell_bringer" target="_blank">Shell Bringer</a> - A tool used to provide remote shell access to systems.</li>
 </ul>
 </details>
