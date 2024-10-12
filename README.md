@@ -31,11 +31,11 @@
 
 <p>
   <strong>Red Team Enthusiast & Pentester</strong><br>
-  - Currently completing the Jr. Penetration Tester<br>
+  - Currently completing the Red Teaming<br>
   <strong>Interested in certifications like:</strong><br>
-  - CompTIA Security+<br>
+  - OSCP<br>
   - CompTIA Pentest+<br>
-  - CCT
+  - CEH
 </p>
 </details>
 
