@@ -72,12 +72,15 @@
 </summary>
 
 <p>
-  - OPENGL GLUT library<br>
-  - Linux Command-based Homework<br>
-  - AutoWeather prediction<br>
-  - PS_Works<br>
-  - Basic HTML biography pages<br>
-  - Bootstrap basic websites
+  - <a href="https://github.com/onurcangnc/ctf_writeups" target="_blank">CTF WriteUps</a><br><br>
+  - <a href="https://github.com/onurcangnc/Rasputin" target="_blank">Rasputin</a><br><br>
+  - <a href="https://github.com/onurcangnc/email_reader" target="_blank">Bilkent Email Reader</a><br>
+  - <a href="https://github.com/onurcangnc/bilkent_traffic" target="_blank">Bilkent Traffic Reporter</a><br>
+  - <a href="https://github.com/onurcangnc/whatsapp_chat_analyzer" target="_blank">WhatsApp Chat Analyzer</a><br>
+  - <a href="https://github.com/onurcangnc/tinder_automation" target="_blank">Tinder Automation</a><br>
+  - <a href="https://github.com/onurcangnc/bumble_location_changer" target="_blank">Bumble Location Changer</a><br>
+  - <a href="https://github.com/onurcangnc/PixelTap_Auto_Combat2" target="_blank">PixelTap Auto Combat v2 Changer</a><br>
+  - <a href="https://github.com/onurcangnc/shell_bringer" target="_blank">Shell Bringer</a><br>
 </p>
 </details>
 
@@ -136,5 +139,6 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png" alt="TryHackMe Stats">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=362875" alt="TryHackMe Badge">
 </p>
 </details>
