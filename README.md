@@ -31,11 +31,20 @@
 
 <p>
   <strong>Red Team Enthusiast & Pentester</strong><br>
-  - Currently completing the Red Teaming<br>
+  <img src="https://img.shields.io/badge/Red%20Team-%23FF0000.svg?style=for-the-badge" alt="Red Team">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-%231E90FF.svg?style=for-the-badge" alt="Penetration Testing"><br>
+  <img src="https://img.shields.io/badge/CompTIA%20Security+-%23E62E00.svg?style=for-the-badge" alt="CompTIA Security+"><br>
+  - Currently completing the Red Teaming on TryHackMe<br>
+  
   <strong>Interested in certifications like:</strong><br>
-  - OSCP<br>
-  - CompTIA Pentest+<br>
-  - CEH
+  <img src="https://img.shields.io/badge/OSCP-%23FF5733.svg?style=for-the-badge" alt="OSCP">
+  <img src="https://img.shields.io/badge/CompTIA%20PenTest+-%238A2BE2.svg?style=for-the-badge" alt="CompTIA PenTest+">
+  <img src="https://img.shields.io/badge/CEH-%23000000.svg?style=for-the-badge" alt="CEH"><br>
+  
+<strong>Interested in certifications like:</strong><br>
+<img src="https://img.shields.io/badge/OSCP-%23FF5733.svg?style=for-the-badge" alt="OSCP">
+<img src="https://img.shields.io/badge/CompTIA%20PenTest+-%238A2BE2.svg?style=for-the-badge" alt="CompTIA PenTest+">
+<img src="https://img.shields.io/badge/CEH-%23000000.svg?style=for-the-badge" alt="CEH">
 </p>
 </details>
 
@@ -51,8 +60,10 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/Open%20Source%20Intelligence-gray?style=for-the-badge" alt="Open Source Intelligence">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/metasploit-%231E90FF.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/burp%20suite-%23FF5733.svg?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/nmap-%234091E1.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/ghidra-%23FF0000.svg?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra">
 </p>
 </details>
 
@@ -63,6 +74,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 </details>
 
@@ -71,17 +84,17 @@
   <strong>Projects</strong>
 </summary>
 
-<p>
-  - <a href="https://github.com/onurcangnc/ctf_writeups" target="_blank">CTF WriteUps</a><br>
-  - <a href="https://github.com/onurcangnc/Rasputin" target="_blank">Rasputin</a><br>
-  - <a href="https://github.com/onurcangnc/email_reader" target="_blank">Bilkent Email Reader</a><br>
-  - <a href="https://github.com/onurcangnc/bilkent_traffic" target="_blank">Bilkent Traffic Reporter</a><br>
-  - <a href="https://github.com/onurcangnc/whatsapp_chat_analyzer" target="_blank">WhatsApp Chat Analyzer</a><br>
-  - <a href="https://github.com/onurcangnc/tinder_automation" target="_blank">Tinder Automation</a><br>
-  - <a href="https://github.com/onurcangnc/bumble_location_changer" target="_blank">Bumble Location Changer</a><br>
-  - <a href="https://github.com/onurcangnc/PixelTap_Auto_Combat2" target="_blank">PixelTap Auto Combat v2 Changer</a><br>
-  - <a href="https://github.com/onurcangnc/shell_bringer" target="_blank">Shell Bringer</a><br>
-</p>
+<ul>
+  <li><a href="https://github.com/onurcangnc/ctf_writeups" target="_blank">CTF WriteUps</a> - Solutions for Capture The Flag challenges.</li>
+  <li><a href="https://github.com/onurcangnc/Rasputin" target="_blank">Rasputin</a> - A security tool based on Python.</li>
+  <li><a href="https://github.com/onurcangnc/email_reader" target="_blank">Bilkent Email Reader</a> - An application developed to read Bilkent University emails.</li>
+  <li><a href="https://github.com/onurcangnc/bilkent_traffic" target="_blank">Bilkent Traffic Reporter</a> - Provides traffic reporting on the Bilkent campus.</li>
+  <li><a href="https://github.com/onurcangnc/whatsapp_chat_analyzer" target="_blank">WhatsApp Chat Analyzer</a> - A tool used to analyze WhatsApp chats.</li>
+  <li><a href="https://github.com/onurcangnc/tinder_automation" target="_blank">Tinder Automation</a> - A project that provides automation on Tinder.</li>
+  <li><a href="https://github.com/onurcangnc/bumble_location_changer" target="_blank">Bumble Location Changer</a> - Allows location change on the Bumble app.</li>
+  <li><a href="https://github.com/onurcangnc/PixelTap_Auto_Combat2" target="_blank">PixelTap Auto Combat v2</a> - An automatic combat system for the PixelTap game.</li>
+  <li><a href="https://github.com/onurcangnc/shell_bringer" target="_blank">Shell Bringer</a> - A tool used to provide remote shell access to systems.</li>
+</ul>
 </details>
 
 <details>
@@ -92,6 +105,8 @@
 <p align="center">
   <a href="steamcommunity.com/id/srancuel"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
   <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
+  <br>
+  In my free time, I enjoy playing video games on Steam and Epic Games, exploring different genres and engaging in online gaming communities.
 </p>
 </details>
 
@@ -139,5 +154,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/onurcangnc/onurcangnc/master/assets/thm_propic.png" alt="TryHackMe Stats">
+  <br>
+  Explore my TryHackMe profile to see my progress in cybersecurity and red teaming challenges.
 </p>
 </details>
